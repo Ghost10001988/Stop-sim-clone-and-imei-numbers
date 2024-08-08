@@ -9,4 +9,6 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
+version; 3
+sim and imei protect from all clone and smartswitch "permanently "
 
