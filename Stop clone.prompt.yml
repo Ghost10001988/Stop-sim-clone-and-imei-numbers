@@ -1,1 +1,7 @@
 messages: []
+model: openai/gpt-4.1
+responseFormat: json_object
+testData: []
+evaluators:
+  - name: Relevance
+    uses: github/relevance
